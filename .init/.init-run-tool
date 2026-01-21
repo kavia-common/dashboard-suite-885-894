@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/dashboard-suite-885-894/social_media_frontend"
+}
